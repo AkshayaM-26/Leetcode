@@ -8,35 +8,39 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-import java.util.*;
-
 class Solution {
+    
     public ListNode mergeKLists(ListNode[] lists) {
         if (lists == null || lists.length == 0) return null;
 
-        PriorityQueue<ListNode> pq = new PriorityQueue<>(
-            (a, b) -> a.val - b.val
-        );
+        ListNode result = lists[0];
 
-        // Add all list heads
-        for (ListNode node : lists) {
-            if (node != null) {
-                pq.add(node);
-            }
+        for (int i = 1; i < lists.length; i++) {
+            result = mergeTwoLists(result, lists[i]);
         }
 
+        return result;
+    }
+
+    // Merge 2 sorted lists
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode dummy = new ListNode(0);
         ListNode tail = dummy;
 
-        while (!pq.isEmpty()) {
-            ListNode minNode = pq.poll();
-            tail.next = minNode;
-            tail = tail.next;
-
-            if (minNode.next != null) {
-                pq.add(minNode.next);
+        while (l1 != null && l2 != null) {
+            if (l1.val < l2.val) {
+                tail.next = l1;
+                l1 = l1.next;
+            } else {
+                tail.next = l2;
+                l2 = l2.next;
             }
+            tail = tail.next;
         }
+
+        // remaining nodes
+        if (l1 != null) tail.next = l1;
+        if (l2 != null) tail.next = l2;
 
         return dummy.next;
     }
