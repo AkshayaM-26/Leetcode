@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AkshayaM-26/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AkshayaM-26/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0682-baseball-game](https://github.com/AkshayaM-26/Leetcode/tree/main/0682-baseball-game/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +62,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0682-baseball-game](https://github.com/AkshayaM-26/Leetcode/tree/main/0682-baseball-game/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0682-baseball-game](https://github.com/AkshayaM-26/Leetcode/tree/main/0682-baseball-game/) | Easy |
 <!---LeetCode Topics End-->
