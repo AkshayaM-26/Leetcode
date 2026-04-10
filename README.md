@@ -37,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/AkshayaM-26/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/AkshayaM-26/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -70,6 +71,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AkshayaM-26/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0051-n-queens](https://github.com/AkshayaM-26/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0088-merge-sorted-array](https://github.com/AkshayaM-26/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/AkshayaM-26/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/AkshayaM-26/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0682-baseball-game](https://github.com/AkshayaM-26/Leetcode/tree/main/0682-baseball-game/) | Easy |
@@ -100,5 +102,6 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/AkshayaM-26/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/AkshayaM-26/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
