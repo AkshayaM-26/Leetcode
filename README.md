@@ -38,6 +38,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AkshayaM-26/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/AkshayaM-26/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/AkshayaM-26/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AkshayaM-26/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -95,6 +96,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/AkshayaM-26/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0125-valid-palindrome](https://github.com/AkshayaM-26/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
