@@ -11,6 +11,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/AkshayaM-26/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/AkshayaM-26/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AkshayaM-26/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0707-design-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0707-design-linked-list/) | Medium |
@@ -30,6 +31,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/AkshayaM-26/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/AkshayaM-26/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0146-lru-cache](https://github.com/AkshayaM-26/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -71,6 +73,7 @@
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/AkshayaM-26/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -114,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AkshayaM-26/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0146-lru-cache](https://github.com/AkshayaM-26/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0217-contains-duplicate](https://github.com/AkshayaM-26/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/AkshayaM-26/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
