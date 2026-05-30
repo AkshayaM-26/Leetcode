@@ -70,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AkshayaM-26/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0200-number-of-islands](https://github.com/AkshayaM-26/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/AkshayaM-26/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AkshayaM-26/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -85,6 +86,7 @@
 | [0014-longest-common-prefix](https://github.com/AkshayaM-26/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0051-n-queens](https://github.com/AkshayaM-26/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0088-merge-sorted-array](https://github.com/AkshayaM-26/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0200-number-of-islands](https://github.com/AkshayaM-26/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/AkshayaM-26/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/AkshayaM-26/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/AkshayaM-26/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -161,6 +163,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/AkshayaM-26/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/AkshayaM-26/Leetcode/tree/main/0207-course-schedule/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -170,4 +173,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/AkshayaM-26/Leetcode/tree/main/0207-course-schedule/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/AkshayaM-26/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/AkshayaM-26/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
