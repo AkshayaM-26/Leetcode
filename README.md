@@ -91,6 +91,7 @@
 | [0217-contains-duplicate](https://github.com/AkshayaM-26/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/AkshayaM-26/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/AkshayaM-26/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/AkshayaM-26/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/AkshayaM-26/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0414-third-maximum-number](https://github.com/AkshayaM-26/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/AkshayaM-26/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -124,6 +125,7 @@
 | [0062-unique-paths](https://github.com/AkshayaM-26/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/AkshayaM-26/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/AkshayaM-26/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/AkshayaM-26/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/AkshayaM-26/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/AkshayaM-26/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 ## Hash Table
@@ -204,4 +206,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/AkshayaM-26/Leetcode/tree/main/0062-unique-paths/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/AkshayaM-26/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
