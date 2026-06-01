@@ -114,6 +114,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AkshayaM-26/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/AkshayaM-26/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0091-decode-ways](https://github.com/AkshayaM-26/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/AkshayaM-26/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/AkshayaM-26/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/AkshayaM-26/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -124,6 +125,7 @@
 | [0022-generate-parentheses](https://github.com/AkshayaM-26/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/AkshayaM-26/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/AkshayaM-26/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/AkshayaM-26/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/AkshayaM-26/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/AkshayaM-26/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/AkshayaM-26/Leetcode/tree/main/0322-coin-change/) | Medium |
