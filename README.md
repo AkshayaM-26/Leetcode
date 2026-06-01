@@ -120,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/AkshayaM-26/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0062-unique-paths](https://github.com/AkshayaM-26/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/AkshayaM-26/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/AkshayaM-26/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/AkshayaM-26/Leetcode/tree/main/0322-coin-change/) | Medium |
@@ -191,9 +192,14 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/AkshayaM-26/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/AkshayaM-26/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/AkshayaM-26/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/AkshayaM-26/Leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
