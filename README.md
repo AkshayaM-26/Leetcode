@@ -91,6 +91,7 @@
 | [0217-contains-duplicate](https://github.com/AkshayaM-26/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/AkshayaM-26/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/AkshayaM-26/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0322-coin-change](https://github.com/AkshayaM-26/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0414-third-maximum-number](https://github.com/AkshayaM-26/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0682-baseball-game](https://github.com/AkshayaM-26/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/AkshayaM-26/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -121,6 +122,7 @@
 | [0022-generate-parentheses](https://github.com/AkshayaM-26/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/AkshayaM-26/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/AkshayaM-26/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/AkshayaM-26/Leetcode/tree/main/0322-coin-change/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +170,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/AkshayaM-26/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/AkshayaM-26/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0322-coin-change](https://github.com/AkshayaM-26/Leetcode/tree/main/0322-coin-change/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
