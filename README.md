@@ -119,6 +119,7 @@
 | [0242-valid-anagram](https://github.com/AkshayaM-26/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/AkshayaM-26/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0649-dota2-senate](https://github.com/AkshayaM-26/Leetcode/tree/main/0649-dota2-senate/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/AkshayaM-26/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +131,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/AkshayaM-26/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/AkshayaM-26/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/AkshayaM-26/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/AkshayaM-26/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
