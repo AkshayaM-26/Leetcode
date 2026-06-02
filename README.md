@@ -85,6 +85,7 @@
 | [0001-two-sum](https://github.com/AkshayaM-26/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/AkshayaM-26/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0051-n-queens](https://github.com/AkshayaM-26/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0064-minimum-path-sum](https://github.com/AkshayaM-26/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AkshayaM-26/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0198-house-robber](https://github.com/AkshayaM-26/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/AkshayaM-26/Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -125,6 +126,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/AkshayaM-26/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/AkshayaM-26/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/AkshayaM-26/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/AkshayaM-26/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/AkshayaM-26/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/AkshayaM-26/Leetcode/tree/main/0198-house-robber/) | Medium |
@@ -196,6 +198,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/AkshayaM-26/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/AkshayaM-26/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Math
 | Problem Name | Difficulty |
