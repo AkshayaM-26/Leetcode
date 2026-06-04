@@ -1,14 +1,14 @@
 class Solution {
     public int numSubarrayProductLessThanK(int[] arr, int k) {
-        int prod=1,maxlen=0;
+        int prod=1,maxlen=0,ws=0;
         if(k<=1) return 0;
-        for(int l=0,r=0;r<arr.length;r++){
-            prod=prod*arr[r];
+        for(int we=0;we<arr.length;we++){
+            prod=prod*arr[we];
             while(prod>=k){
-                prod=prod/arr[l];
-                l++;
+                prod=prod/arr[ws];
+                ws++;
             }
-            maxlen=maxlen+r-l+1;
+            maxlen=maxlen+we-ws+1;
         }
         return maxlen;
     }
