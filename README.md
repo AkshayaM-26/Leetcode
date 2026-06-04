@@ -122,6 +122,7 @@
 | [0344-reverse-string](https://github.com/AkshayaM-26/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0649-dota2-senate](https://github.com/AkshayaM-26/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/AkshayaM-26/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkshayaM-26/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,4 +220,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/AkshayaM-26/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkshayaM-26/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
