@@ -97,6 +97,7 @@
 | [0414-third-maximum-number](https://github.com/AkshayaM-26/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/AkshayaM-26/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0682-baseball-game](https://github.com/AkshayaM-26/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/AkshayaM-26/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/AkshayaM-26/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AkshayaM-26/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AkshayaM-26/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -156,6 +157,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/AkshayaM-26/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/AkshayaM-26/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/AkshayaM-26/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -220,8 +222,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/AkshayaM-26/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/AkshayaM-26/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/AkshayaM-26/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkshayaM-26/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
