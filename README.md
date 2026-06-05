@@ -4,6 +4,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/AkshayaM-26/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AkshayaM-26/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/AkshayaM-26/Leetcode/tree/main/0682-baseball-game/) | Easy |
@@ -31,6 +32,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/AkshayaM-26/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/AkshayaM-26/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0143-reorder-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/AkshayaM-26/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -44,6 +46,7 @@
 | [0061-rotate-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AkshayaM-26/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/AkshayaM-26/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0143-reorder-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0283-move-zeroes](https://github.com/AkshayaM-26/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/AkshayaM-26/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -53,6 +56,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AkshayaM-26/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/AkshayaM-26/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0143-reorder-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
