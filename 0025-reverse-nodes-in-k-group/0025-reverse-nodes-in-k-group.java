@@ -26,7 +26,6 @@ class Solution {
             }
             head=curr;
         }
-
         return head;
     }
 }
