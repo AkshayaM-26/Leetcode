@@ -8,6 +8,7 @@
 | [0225-implement-stack-using-queues](https://github.com/AkshayaM-26/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AkshayaM-26/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/AkshayaM-26/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AkshayaM-26/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +107,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/AkshayaM-26/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/AkshayaM-26/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AkshayaM-26/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkshayaM-26/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AkshayaM-26/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Simulation
@@ -236,4 +239,8 @@
 | [0713-subarray-product-less-than-k](https://github.com/AkshayaM-26/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkshayaM-26/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkshayaM-26/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
