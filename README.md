@@ -113,6 +113,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/AkshayaM-26/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkshayaM-26/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AkshayaM-26/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/AkshayaM-26/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@
 | [0238-product-of-array-except-self](https://github.com/AkshayaM-26/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/AkshayaM-26/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/AkshayaM-26/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/AkshayaM-26/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +221,7 @@
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/AkshayaM-26/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/AkshayaM-26/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/AkshayaM-26/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
