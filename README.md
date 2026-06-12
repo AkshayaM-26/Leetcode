@@ -261,4 +261,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/AkshayaM-26/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1978-employees-whose-manager-left-the-company](https://github.com/AkshayaM-26/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
