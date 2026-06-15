@@ -285,5 +285,6 @@
 | [1075-project-employees-i](https://github.com/AkshayaM-26/Leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/AkshayaM-26/Leetcode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/AkshayaM-26/Leetcode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
+| [1164-product-price-at-a-given-date](https://github.com/AkshayaM-26/Leetcode/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/AkshayaM-26/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
