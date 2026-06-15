@@ -276,6 +276,7 @@
 | [0608-tree-node](https://github.com/AkshayaM-26/Leetcode/tree/main/0608-tree-node/) | Medium |
 | [0610-triangle-judgement](https://github.com/AkshayaM-26/Leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/AkshayaM-26/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
+| [0620-not-boring-movies](https://github.com/AkshayaM-26/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/AkshayaM-26/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/AkshayaM-26/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
