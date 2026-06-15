@@ -271,6 +271,7 @@
 | [0577-employee-bonus](https://github.com/AkshayaM-26/Leetcode/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/AkshayaM-26/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/AkshayaM-26/Leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/AkshayaM-26/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0626-exchange-seats](https://github.com/AkshayaM-26/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/AkshayaM-26/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
