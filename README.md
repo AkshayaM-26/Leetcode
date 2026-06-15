@@ -281,5 +281,6 @@
 | [0627-swap-sex-of-employees](https://github.com/AkshayaM-26/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/AkshayaM-26/Leetcode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/AkshayaM-26/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1070-product-sales-analysis-iii](https://github.com/AkshayaM-26/Leetcode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/AkshayaM-26/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
