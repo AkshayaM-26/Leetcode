@@ -283,5 +283,6 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/AkshayaM-26/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/AkshayaM-26/Leetcode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/AkshayaM-26/Leetcode/tree/main/1075-project-employees-i/) | Easy |
+| [1084-sales-analysis-iii](https://github.com/AkshayaM-26/Leetcode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/AkshayaM-26/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
