@@ -291,5 +291,6 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/AkshayaM-26/Leetcode/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/AkshayaM-26/Leetcode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/AkshayaM-26/Leetcode/tree/main/1251-average-selling-price/) | Easy |
+| [1280-students-and-examinations](https://github.com/AkshayaM-26/Leetcode/tree/main/1280-students-and-examinations/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/AkshayaM-26/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
